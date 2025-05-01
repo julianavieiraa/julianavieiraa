@@ -8,7 +8,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/caminho/para/imagem.png" alt="avatar estilo anime" />
+  <img height="200" src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DA_IMAGEM.png?raw=true" alt="avatar estilo anime" />
+
 </div>
 
 ###
