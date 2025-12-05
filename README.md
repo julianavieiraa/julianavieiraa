@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![LinkedIn](www.linkedin.com/in/juliana-vieira-4b4660349)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/juliana-vieira-4b4660349)
 
 
 <h3 align="left">My Stack ~</h3>
