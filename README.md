@@ -10,7 +10,8 @@
 
 <p align="center">Sou Juliana, estudante de Desenvolvimento de Sistemas na escola Senai.  
 
-  
+  <img src="./src/meu-video.gif" alt="Preview do vídeo" width="500">
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
