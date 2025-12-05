@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail]()
-[![LinkedIn]()
-[![Instagram]()
+[![LinkedIn](www.linkedin.com/in/juliana-vieira-4b4660349)
 
 
 <h3 align="left">My Stack ~</h3>
