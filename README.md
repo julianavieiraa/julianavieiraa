@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Sou Juliana, estudante de Desenvolvimento de Sistemas na escola Senai.  
+<p align="center">Sou Juliana, estudante de Desenvolvimento de Sistemas.  
 
   <img src="./src/meu-video.gif" alt="Preview do vídeo" width="500">
 
